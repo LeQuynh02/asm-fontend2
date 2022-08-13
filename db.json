@@ -1,0 +1,105 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptop 88 update"
+    },
+    {
+      "name": "Diện thoại",
+      "id": 2
+    },
+    {
+      "name": "Máy tính",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1659056020/qpvfceycfxxz4ydttndb.jpg",
+      "name": "Nguyễn Thành Đạt update",
+      "price": 1111111,
+      "sale_price": 11111,
+      "quantity": 1111,
+      "desc_img": "11111111111111",
+      "desc": "1111111gggggđ",
+      "short_desc": "1111111ggg",
+      "cateId": 1
+    },
+    {
+      "id": 2,
+      "image": "C:\\fakepath\\Screenshot 2022-07-28 164257.png",
+      "name": "Iphone 11 update",
+      "price": 111,
+      "sale_price": 111,
+      "quantity": 11111,
+      "desc_img": "111111",
+      "desc": "1111111111111",
+      "short_desc": "111111",
+      "cateId": 2
+    },
+    {
+      "id": 3,
+      "image": "C:\\fakepath\\Screenshot 2022-07-28 164257.png",
+      "name": "aaaaaaaaaaaaaa update",
+      "price": 111111111112,
+      "sale_price": 1.1111,
+      "quantity": 1111111,
+      "desc_img": "111111111111111111",
+      "desc": "1111111111111111111111111",
+      "short_desc": "111111111",
+      "cateId": 2
+    },
+    {
+      "id": 4,
+      "image": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1659179556/gucq63zjumuk28ezlrhw.jpg",
+      "name": "111111 update v3",
+      "price": 111,
+      "sale_price": 11111,
+      "quantity": 111111,
+      "desc_img": "111111111111",
+      "desc": "11111111111",
+      "short_desc": "111111",
+      "cateId": 2
+    },
+    {
+      "image": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1659055532/kvrxzibig31j3o5voapy.png",
+      "name": "111111",
+      "price": 111,
+      "sale_price": 11,
+      "quantity": 111111,
+      "desc_img": "111111111111",
+      "desc": "11111111111",
+      "short_desc": "111111",
+      "cateId": 2,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "image": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1659316529/wsrvxmt8vxywfglcd9z2.jpg",
+      "name": "111111 update v2",
+      "price": 111,
+      "sale_price": 11,
+      "quantity": 111111,
+      "desc_img": "111111111111",
+      "desc": "11111111111",
+      "short_desc": "111111",
+      "cateId": 2
+    },
+    {
+      "image": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1659055620/ill3afscp9ugojpoihxk.jpg",
+      "name": "111111",
+      "price": 111,
+      "sale_price": 11,
+      "quantity": 111111,
+      "desc_img": "111111111111",
+      "desc": "11111111111",
+      "short_desc": "111111",
+      "cateId": 2,
+      "id": 7
+    }
+  ],
+  "user":[
+    
+  ]
+}
